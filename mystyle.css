@@ -1,0 +1,40 @@
+.my-bg-gray {
+    background-color: #f6f6f6;
+}
+.my-bg-white {
+    background-color: #fff;
+}
+
+.chkboxrow {
+    text-align: center;
+}
+
+.connectwithme-area {
+    background-color: #f6f6f6;
+}
+
+.all-contact-text .di-na input[type="email"] {
+    background-color: #fff;
+    border: inherit;
+    border-radius: 0px;
+    -webkit-box-shadow: inherit;
+    box-shadow: inherit;
+    height: 44px;
+    outline: medium none;
+    padding: 0 13px;
+    -webkit-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+    width: 100%;
+    color: #333;
+    font-size: 13px;
+}
+
+
+// jfiddle for carousel 
+.carousel-content {
+    color:black;
+    display:flex;
+    align-items:center;
+}
+
+                   
